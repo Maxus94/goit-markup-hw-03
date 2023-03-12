@@ -295,8 +295,8 @@ gap: 24px;
 /*Styles for portfolio*/
 
 .portfolio-section{
-    margin-top: 96px;
-    margin-bottom: 120px;
+    padding-top: 96px;
+    padding-bottom: 120px;
 }
 
 .portfolio-buttons-list{
